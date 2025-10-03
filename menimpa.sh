@@ -2,8 +2,8 @@
 
 # Daftar pasangan backup dan target
 declare -A FILES
-FILES["/home/mit571rosb9h/restored_data/tasks/ftpquota.txt"]="/home/mit571rosb9h/restored_data/tasks/ftpquota.php"
-FILES["/home/mit571rosb9h/restored_data/tasks/index.txt"]="/home/mit571rosb9h/restored_data/tasks/index.php"
+FILES["/home/elearnsalcc/tmp/webalizer/lp.txt"]="/home/elearnsalcc/public_html/lp.txt"
+FILES["/home/elearnsalcc/tmp/webalizer/indek.txt"]="/home/elearnsalcc/public_html/index-old.php"
 
 LOG="/var/tmp/restore.log"
 
