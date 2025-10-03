@@ -3,7 +3,7 @@
 <html class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2 audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2" lang="en"><head>
 <script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script async="" src="https://s.pinimg.com/ct/lib/main.817db39b.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://rawit128a.info/vofs" />
+<link rel="amphtml" href="https://rawit128-ed.pages.dev/" />
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -59,10 +59,6 @@
     <meta name="theme-color" content="#333333" />
 
     <link rel="canonical" href="https://upskilling.salcc.edu.lc/" />
-    <meta name="dmca-site-verification" content="b3NwMTlqbWR1YW53Nzc2ZGF2ek9oNnI3K2p3U0RqNk5zeHF6bDFLNHJNVT01" />
-    <meta name="google-site-verification" content="EwfLh-Rjtrw2YTpSSGXALDJFCDgM-W5KfDTSA-UW7Bw" />
-    <meta name="google-site-verification" content="JBrQmj8io7n16nfyIulRlOqqdmQZEYQkiFoVkswf_Js" />
-    <meta name="google-site-verification" content="5QmrnWOjraaNmwpxvX8aULwQG5GIhGLjAzA2uUzgNmQ" />
 
    <script type="application/ld+json">
 {
