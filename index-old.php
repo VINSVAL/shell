@@ -1,86 +1,21 @@
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-US">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="https://gmpg.org/xfn/11"> 
-	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-
-<!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<script data-cfasync="false" data-pagespeed-no-defer>
-	var gtm4wp_datalayer_name = "dataLayer";
-	var dataLayer = dataLayer || [];
-</script>
-<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
-	<!-- This site is optimized with the Yoast SEO plugin v27.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
-	<title>Tentang Kami &#8211; PT thiskarimunjawa</title>
-	<link rel="canonical" href="https://thiskarimunjawa.id/tentang-kami/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Tentang Kami &#8211; PT thiskarimunjawa" />
-	<meta property="og:description" content="About Us Bersiaplah untuk petualangan yang luar biasa! Dapatkan pengalaman terbaik di Karimunjawa bersama This Karimunjawa Travel Agent. Ayo berangkat [&hellip;]" />
-	<meta property="og:url" content="https://thiskarimunjawa.id/tentang-kami/" />
-	<meta property="og:site_name" content="PT thiskarimunjawa" />
-	<meta property="article:modified_time" content="2026-02-13T16:36:25+00:00" />
-	<meta property="og:image" content="https://thiskarimunjawa.id/wp-content/uploads/2024/05/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg" />
-	<meta property="og:image:width" content="600" />
-	<meta property="og:image:height" content="400" />
-	<meta property="og:image:type" content="image/jpeg" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Est. reading time" />
-	<meta name="twitter:data1" content="3 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/","url":"https:\/\/thiskarimunjawa.id\/tentang-kami\/","name":"Tentang Kami &#8211; PT thiskarimunjawa","isPartOf":{"@id":"https:\/\/thiskarimunjawa.id\/#website"},"primaryImageOfPage":{"@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/#primaryimage"},"image":{"@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/#primaryimage"},"thumbnailUrl":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg","datePublished":"2024-05-15T06:09:19+00:00","dateModified":"2026-02-13T16:36:25+00:00","breadcrumb":{"@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/thiskarimunjawa.id\/tentang-kami\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/#primaryimage","url":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg","contentUrl":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg","width":600,"height":400},{"@type":"BreadcrumbList","@id":"https:\/\/thiskarimunjawa.id\/tentang-kami\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/thiskarimunjawa.id\/"},{"@type":"ListItem","position":2,"name":"Tentang Kami"}]},{"@type":"WebSite","@id":"https:\/\/thiskarimunjawa.id\/#website","url":"https:\/\/thiskarimunjawa.id\/","name":"ThisKarimunjawa.id","description":"Karimun Jawa, Karimunjawa, Visit Karimun, Trip Karimun, Liburan Karimun, Paket Liburan Karimun Murah","publisher":{"@id":"https:\/\/thiskarimunjawa.id\/#\/schema\/person\/41a62f3df404674bdcf036dfdb18eef1"},"alternateName":"This Karimunjawa","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/thiskarimunjawa.id\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Person","Organization"],"@id":"https:\/\/thiskarimunjawa.id\/#\/schema\/person\/41a62f3df404674bdcf036dfdb18eef1","name":"PT. This Karimunjawa","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/this-karimun.jpg","url":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/this-karimun.jpg","contentUrl":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/this-karimun.jpg","width":842,"height":1280,"caption":"PT. This Karimunjawa"},"logo":{"@id":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads\/2024\/05\/this-karimun.jpg"},"sameAs":["https:\/\/thiskarimunjawa.id"]}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
-<link rel="alternate" type="application/rss+xml" title="PT thiskarimunjawa &raquo; Feed" href="https://thiskarimunjawa.id/feed/" />
-<link rel="alternate" type="application/rss+xml" title="PT thiskarimunjawa &raquo; Comments Feed" href="https://thiskarimunjawa.id/comments/feed/" />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://thiskarimunjawa.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthiskarimunjawa.id%2Ftentang-kami%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://thiskarimunjawa.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthiskarimunjawa.id%2Ftentang-kami%2F&#038;format=xml" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Cart &#8211; NaturaGro </title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="NaturaGro  &raquo; Feed" href="https://naturagro.co.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NaturaGro  &raquo; Comments Feed" href="https://naturagro.co.id/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://naturagro.co.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnaturagro.co.id%2Fcart%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://naturagro.co.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnaturagro.co.id%2Fcart%2F&#038;format=xml" />
 <style id="wp-img-auto-sizes-contain-inline-css">
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
-<link rel='stylesheet' id='astra-theme-css-css' href='https://thiskarimunjawa.id/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.13.4' media='all' />
-<style id="astra-theme-css-inline-css">
-:root{--ast-post-nav-space:0;--ast-container-default-xlg-padding:2.5em;--ast-container-default-lg-padding:2.5em;--ast-container-default-slg-padding:2em;--ast-container-default-md-padding:2.5em;--ast-container-default-sm-padding:2.5em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.8em;--ast-code-block-background:#ECEFF3;--ast-comment-inputs-background:#F9FAFB;--ast-normal-container-width:1200px;--ast-narrow-container-width:750px;--ast-blog-title-font-weight:600;--ast-blog-meta-weight:600;--ast-global-color-primary:var(--ast-global-color-5);--ast-global-color-secondary:var(--ast-global-color-4);--ast-global-color-alternate-background:var(--ast-global-color-7);--ast-global-color-subtle-background:var(--ast-global-color-6);--ast-bg-style-guide:var( --ast-global-color-secondary,var(--ast-global-color-5) );--ast-shadow-style-guide:0px 0px 4px 0 #00000057;--ast-global-dark-bg-style:#fff;--ast-global-dark-lfs:#fbfbfb;--ast-widget-bg-color:#fafafa;--ast-wc-container-head-bg-color:#fbfbfb;--ast-title-layout-bg:#eeeeee;--ast-search-border-color:#e7e7e7;--ast-lifter-hover-bg:#e6e6e6;--ast-gallery-block-color:#000;--srfm-color-input-label:var(--ast-global-color-2);}html{font-size:100%;}a{color:var(--ast-global-color-0);}a:hover,a:focus{color:var(--ast-global-color-1);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:400;font-size:16px;font-size:1rem;line-height:var(--ast-body-line-height,1.65);}blockquote{color:var(--ast-global-color-3);}h1,h2,h3,h4,h5,h6,.entry-content :where(h1,h2,h3,h4,h5,h6),.site-title,.site-title a{font-weight:600;}.ast-site-identity .site-title a{color:var(--ast-global-color-2);}.site-title{font-size:26px;font-size:1.625rem;display:block;}.site-header .site-description{font-size:15px;font-size:0.9375rem;display:none;}.entry-title{font-size:20px;font-size:1.25rem;}.ast-blog-single-element.ast-taxonomy-container a{font-size:14px;font-size:0.875rem;}.ast-blog-meta-container{font-size:13px;font-size:0.8125rem;}.archive .ast-article-post .ast-article-inner,.blog .ast-article-post .ast-article-inner,.archive .ast-article-post .ast-article-inner:hover,.blog .ast-article-post .ast-article-inner:hover{border-top-left-radius:6px;border-top-right-radius:6px;border-bottom-right-radius:6px;border-bottom-left-radius:6px;overflow:hidden;}h1,.entry-content :where(h1){font-size:36px;font-size:2.25rem;font-weight:600;line-height:1.4em;}h2,.entry-content :where(h2){font-size:30px;font-size:1.875rem;font-weight:600;line-height:1.3em;}h3,.entry-content :where(h3){font-size:24px;font-size:1.5rem;font-weight:600;line-height:1.3em;}h4,.entry-content :where(h4){font-size:20px;font-size:1.25rem;line-height:1.2em;font-weight:600;}h5,.entry-content :where(h5){font-size:18px;font-size:1.125rem;line-height:1.2em;font-weight:600;}h6,.entry-content :where(h6){font-size:16px;font-size:1rem;line-height:1.25em;font-weight:600;}::selection{background-color:var(--ast-global-color-0);color:#ffffff;}body,h1,h2,h3,h4,h5,h6,.entry-title a,.entry-content :where(h1,h2,h3,h4,h5,h6){color:var(--ast-global-color-3);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-0);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-0);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-0);font-weight:600;}.entry-meta a:not(.ast-button):hover,.entry-meta a:not(.ast-button):hover *,.entry-meta a:not(.ast-button):focus,.entry-meta a:not(.ast-button):focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:var(--ast-global-color-1);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-0);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-0);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-3);}.ast-search-menu-icon .search-form button.search-submit{padding:0 4px;}.ast-search-menu-icon form.search-form{padding-right:0;}.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form,.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus{transition:all 0.2s;}.search-form input.search-field:focus{outline:none;}.ast-mobile-header-content .ast-builder-layout-element:not(.ast-builder-menu):not(.ast-header-divider-element),.ast-mobile-popup-content .ast-builder-layout-element:not(.ast-builder-menu):not(.ast-header-divider-element){padding:15px 20px;}.ast-search-menu-icon .search-form button.search-submit:focus,.ast-theme-transparent-header .ast-header-search .ast-dropdown-active .ast-icon,.ast-theme-transparent-header .ast-inline-search .search-field:focus .ast-icon{color:var(--ast-global-color-1);}.ast-desktop .ast-header-search .slide-search .search-form{border:2px solid var(--ast-global-color-0);}.ast-header-search .slide-search .search-field{background-color:var(--ast-global-dark-bg-style);}.ast-archive-title{color:var(--ast-global-color-2);}.widget-title,.widget .wp-block-heading{font-size:22px;font-size:1.375rem;color:var(--ast-global-color-2);}.ast-single-post .entry-content a,.ast-comment-content a:not(.ast-comment-edit-reply-wrap a){text-decoration:underline;}.ast-single-post .elementor-widget-button .elementor-button,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .uagb-taxomony-box a,.entry-content .wp-block-latest-posts > li > a,.ast-single-post .entry-content .wp-block-file__button,a.ast-post-filter-single,.ast-single-post .ast-comment-content .comment-reply-link,.ast-single-post .ast-comment-content .comment-edit-link{text-decoration:none;}.ast-search-menu-icon.slide-search a:focus-visible:focus-visible,.astra-search-icon:focus-visible,#close:focus-visible,a:focus-visible,.ast-menu-toggle:focus-visible,.site .skip-link:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,.ast-header-navigation-arrow:focus-visible,.ast-orders-table__row .ast-orders-table__cell:focus-visible,a#ast-apply-coupon:focus-visible,#ast-apply-coupon:focus-visible,#close:focus-visible,.button.search-submit:focus-visible,#search_submit:focus,.normal-search:focus-visible,.ast-header-account-wrap:focus-visible,.astra-cart-drawer-close:focus,.ast-single-variation:focus,.ast-button:focus,.ast-builder-button-wrap:has(.ast-custom-button-link:focus),.ast-builder-button-wrap .ast-custom-button-link:focus{outline-style:dotted;outline-color:inherit;outline-width:thin;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,input[type="number"]:focus,textarea:focus,.wp-block-search__input:focus,[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,#ast-scroll-top:focus,#coupon_code:focus,#ast-coupon-code:focus{border-style:dotted;border-color:inherit;border-width:thin;}input{outline:none;}.ast-logo-title-inline .site-logo-img{padding-right:1em;}.site-logo-img img{ transition:all 0.2s linear;}body .ast-oembed-container *{position:absolute;top:0;width:100%;height:100%;left:0;}body .wp-block-embed-pocket-casts .ast-oembed-container *{position:unset;}.ast-single-post-featured-section + article {margin-top: 2em;}.site-content .ast-single-post-featured-section img {width: 100%;overflow: hidden;object-fit: cover;}.ast-separate-container .site-content .ast-single-post-featured-section + article {margin-top: -80px;z-index: 9;position: relative;border-radius: 4px;}@media (min-width: 922px) {.ast-no-sidebar .site-content .ast-article-image-container--wide {margin-left: -120px;margin-right: -120px;max-width: unset;width: unset;}.ast-left-sidebar .site-content .ast-article-image-container--wide,.ast-right-sidebar .site-content .ast-article-image-container--wide {margin-left: -10px;margin-right: -10px;}.site-content .ast-article-image-container--full {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-left-sidebar .site-content .ast-article-image-container--full,.ast-right-sidebar .site-content .ast-article-image-container--full {margin-left: -10px;margin-right: -10px;max-width: inherit;width: auto;}}.site > .ast-single-related-posts-container {margin-top: 0;}@media (min-width: 922px) {.ast-desktop .ast-container--narrow {max-width: var(--ast-narrow-container-width);margin: 0 auto;}}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 2em;margin-left: auto;margin-right: auto;}.ast-page-builder-template .ast-archive-description {margin: 2em auto 0;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-row {margin-left: 0;margin-right: 0;}.single.ast-page-builder-template .entry-header + .entry-content,.single.ast-page-builder-template .ast-single-entry-banner + .site-content article .entry-content {margin-bottom: 2em;}@media(min-width: 921px) {.ast-page-builder-template.archive.ast-right-sidebar .ast-row article,.ast-page-builder-template.archive.ast-left-sidebar .ast-row article {padding-left: 0;padding-right: 0;}}input[type="text"],input[type="number"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type=reset],input[type=tel],input[type=date],select,textarea{font-size:16px;font-style:normal;font-weight:400;line-height:24px;width:100%;padding:12px 16px;border-radius:4px;box-shadow:0px 1px 2px 0px rgba(0,0,0,0.05);color:var(--ast-form-input-text,#475569);}input[type="text"],input[type="number"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type=reset],input[type=tel],input[type=date],select{height:40px;}input[type="date"]{border-width:1px;border-style:solid;border-color:var(--ast-border-color);background:var( --ast-global-color-secondary,var(--ast-global-color-5) );}input[type="text"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type=reset]:focus,input[type="tel"]:focus,input[type="date"]:focus,select:focus,textarea:focus{border-color:#046BD2;box-shadow:none;outline:none;color:var(--ast-form-input-focus-text,#475569);}label,legend{color:var(--ast-global-color-2,#111827 );font-size:14px;font-style:normal;font-weight:500;line-height:20px;}select{padding:6px 10px;}fieldset{padding:30px;border-radius:4px;}button,.ast-button,.button,input[type="button"],input[type="reset"],input[type="submit"]{border-radius:4px;box-shadow:0px 1px 2px 0px rgba(0,0,0,0.05);}:root{--ast-comment-inputs-background:#FFF;}::placeholder{color:var(--ast-form-field-color,#9CA3AF);}::-ms-input-placeholder{color:var(--ast-form-field-color,#9CA3AF);}@media (max-width:921.99px){#ast-desktop-header{display:none;}}@media (min-width:922px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}.wp-block-button.is-style-outline .wp-block-button__link{border-color:var(--ast-global-color-0);}div.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-0);}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.post-page-numbers.current .page-link,.ast-pagination .page-numbers.current{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{border-color:var(--ast-global-color-0);font-family:inherit;font-weight:500;font-size:16px;font-size:1rem;line-height:1em;padding-top:13px;padding-right:30px;padding-bottom:13px;padding-left:30px;}.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color),.ast-outline-button{color:var(--ast-global-color-0);}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover,.ast-outline-button:hover,.ast-outline-button:focus,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:hover,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.ast-single-post .entry-content a.ast-outline-button,.ast-single-post .entry-content .is-style-outline>.wp-block-button__link{text-decoration:none;}.wp-block-button .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),.wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:not(.has-background),.ast-outline-button{background-color:transparent;}.uagb-buttons-repeater.ast-outline-button{border-radius:9999px;}@media (max-width:921px){.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{padding-top:12px;padding-right:28px;padding-bottom:12px;padding-left:28px;}}@media (max-width:544px){.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{padding-top:10px;padding-right:24px;padding-bottom:10px;padding-left:24px;}}.entry-content[data-ast-blocks-layout] > figure{margin-bottom:1em;}h1.widget-title{font-weight:600;}h2.widget-title{font-weight:600;}h3.widget-title{font-weight:600;}.elementor-widget-container .elementor-loop-container .e-loop-item[data-elementor-type="loop-item"]{width:100%;} .content-area .elementor-widget-theme-post-content h1,.content-area .elementor-widget-theme-post-content h2,.content-area .elementor-widget-theme-post-content h3,.content-area .elementor-widget-theme-post-content h4,.content-area .elementor-widget-theme-post-content h5,.content-area .elementor-widget-theme-post-content h6{margin-top:1.5em;margin-bottom:calc(0.3em + 10px);}#page{display:flex;flex-direction:column;min-height:100vh;}.ast-404-layout-1 h1.page-title{color:var(--ast-global-color-2);}.single .post-navigation a{line-height:1em;height:inherit;}.error-404 .page-sub-title{font-size:1.5rem;font-weight:inherit;}.search .site-content .content-area .search-form{margin-bottom:0;}#page .site-content{flex-grow:1;}.widget{margin-bottom:1.25em;}#secondary li{line-height:1.5em;}#secondary .wp-block-group h2{margin-bottom:0.7em;}#secondary h2{font-size:1.7rem;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comment-respond{padding:3em;}.ast-separate-container .ast-article-single .ast-article-single{padding:0;}.ast-article-single .wp-block-post-template-is-layout-grid{padding-left:0;}.ast-separate-container .comments-title,.ast-narrow-container .comments-title{padding:1.5em 2em;}.ast-page-builder-template .comment-form-textarea,.ast-comment-formwrap .ast-grid-common-col{padding:0;}.ast-comment-formwrap{padding:0;display:inline-flex;column-gap:20px;width:100%;margin-left:0;margin-right:0;}.comments-area textarea#comment:focus,.comments-area textarea#comment:active,.comments-area .ast-comment-formwrap input[type="text"]:focus,.comments-area .ast-comment-formwrap input[type="text"]:active {box-shadow:none;outline:none;}.archive.ast-page-builder-template .entry-header{margin-top:2em;}.ast-page-builder-template .ast-comment-formwrap{width:100%;}.entry-title{margin-bottom:0.6em;}.ast-archive-description p{font-size:inherit;font-weight:inherit;line-height:inherit;}.ast-separate-container .ast-comment-list li.depth-1,.hentry{margin-bottom:1.5em;}.site-content section.ast-archive-description{margin-bottom:2em;}@media (min-width:921px){.ast-left-sidebar.ast-page-builder-template #secondary,.archive.ast-right-sidebar.ast-page-builder-template .site-main{padding-left:20px;padding-right:20px;}}@media (max-width:544px){.ast-comment-formwrap.ast-row{column-gap:10px;display:inline-block;}#ast-commentform .ast-grid-common-col{position:relative;width:100%;}}@media (min-width:1201px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-author-box,.ast-separate-container .ast-404-layout-1,.ast-separate-container .no-results{padding:3em;}} .content-area .elementor-widget-theme-post-content h1,.content-area .elementor-widget-theme-post-content h2,.content-area .elementor-widget-theme-post-content h3,.content-area .elementor-widget-theme-post-content h4,.content-area .elementor-widget-theme-post-content h5,.content-area .elementor-widget-theme-post-content h6{margin-top:1.5em;margin-bottom:calc(0.3em + 10px);}.elementor-loop-container .e-loop-item,.elementor-loop-container .ast-separate-container .ast-article-post,.elementor-loop-container .ast-separate-container .ast-article-single,.elementor-loop-container .ast-separate-container .comment-respond{padding:0px;}@media (max-width:921px){.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.wp-block-button .wp-block-button__link{color:#ffffff;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.elementor-widget-heading h1.elementor-heading-title{line-height:1.4em;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.25em;}.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);color:#ffffff;font-family:inherit;font-weight:500;line-height:1em;font-size:16px;font-size:1rem;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;}.ast-single-post .entry-content .wp-block-button .wp-block-button__link,.ast-single-post .entry-content .wp-block-search .wp-block-search__button,body .entry-content .wp-block-file .wp-block-file__button{text-decoration:none;}@media (max-width:921px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;font-family:inherit;font-weight:500;font-size:16px;font-size:1rem;line-height:1em;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,body .wp-block-file .wp-block-file__button:hover,body .wp-block-file .wp-block-file__button:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button.has-icon{padding-top:calc(15px - 3px);padding-right:calc(30px - 3px);padding-bottom:calc(15px - 3px);padding-left:calc(30px - 3px);}@media (max-width:921px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}} #ast-mobile-header .ast-site-header-cart-li a{pointer-events:none;}.ast-separate-container{background-color:var(--ast-global-color-4);}@media (max-width:921px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content :where(h1){font-size:30px;}h2,.entry-content :where(h2){font-size:25px;}h3,.entry-content :where(h3){font-size:20px;}}@media (max-width:544px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content :where(h1){font-size:30px;}h2,.entry-content :where(h2){font-size:25px;}h3,.entry-content :where(h3){font-size:20px;}}@media (max-width:921px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:922px){.site-content .ast-container{display:flex;}}@media (max-width:921px){.site-content .ast-container{flex-direction:column;}}.entry-content :where(h1,h2,h3,h4,h5,h6){clear:none;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.entry-content li > p{margin-bottom:0;}.site .comments-area{padding-bottom:2em;margin-top:2em;}.wp-block-file {display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;}.wp-block-pullquote {border: none;}.wp-block-pullquote blockquote::before {content: "\201D";font-family: "Helvetica",sans-serif;display: flex;transform: rotate( 180deg );font-size: 6rem;font-style: normal;line-height: 1;font-weight: bold;align-items: center;justify-content: center;}.has-text-align-right > blockquote::before {justify-content: flex-start;}.has-text-align-left > blockquote::before {justify-content: flex-end;}figure.wp-block-pullquote.is-style-solid-color blockquote {max-width: 100%;text-align: inherit;}:root {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 3em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 3em;--wp--custom--ast-container-width: 1200px;--wp--custom--ast-content-width-size: 1200px;--wp--custom--ast-wide-width-size: calc(1200px + var(--wp--custom--ast-default-block-left-padding) + var(--wp--custom--ast-default-block-right-padding));}.ast-narrow-container {--wp--custom--ast-content-width-size: 750px;--wp--custom--ast-wide-width-size: 750px;}@media(max-width: 921px) {:root {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 2em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 2em;}}@media(max-width: 544px) {:root {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 1.5em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 1.5em;}}.entry-content > .wp-block-group,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns {padding-top: var(--wp--custom--ast-default-block-top-padding);padding-right: var(--wp--custom--ast-default-block-right-padding);padding-bottom: var(--wp--custom--ast-default-block-bottom-padding);padding-left: var(--wp--custom--ast-default-block-left-padding);}.ast-plain-container.ast-no-sidebar .entry-content > .alignfull,.ast-page-builder-template .ast-no-sidebar .entry-content > .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignwide {margin-left: auto;margin-right: auto;width: 100%;}[data-ast-blocks-layout] .wp-block-separator:not(.is-style-dots) {height: 0;}[data-ast-blocks-layout] .wp-block-separator {margin: 20px auto;}[data-ast-blocks-layout] .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {max-width: 100px;}[data-ast-blocks-layout] .wp-block-separator.has-background {padding: 0;}.entry-content[data-ast-blocks-layout] > * {max-width: var(--wp--custom--ast-content-width-size);margin-left: auto;margin-right: auto;}.entry-content[data-ast-blocks-layout] > .alignwide {max-width: var(--wp--custom--ast-wide-width-size);}.entry-content[data-ast-blocks-layout] .alignfull {max-width: none;}.entry-content .wp-block-columns {margin-bottom: 0;}blockquote {margin: 1.5em;border-color: rgba(0,0,0,0.05);}.wp-block-quote:not(.has-text-align-right):not(.has-text-align-center) {border-left: 5px solid rgba(0,0,0,0.05);}.has-text-align-right > blockquote,blockquote.has-text-align-right {border-right: 5px solid rgba(0,0,0,0.05);}.has-text-align-left > blockquote,blockquote.has-text-align-left {border-left: 5px solid rgba(0,0,0,0.05);}.wp-block-site-tagline,.wp-block-latest-posts .read-more {margin-top: 15px;}.wp-block-loginout p label {display: block;}.wp-block-loginout p:not(.login-remember):not(.login-submit) input {width: 100%;}.wp-block-loginout input:focus {border-color: transparent;}.wp-block-loginout input:focus {outline: thin dotted;}.entry-content .wp-block-media-text .wp-block-media-text__content {padding: 0 0 0 8%;}.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 0 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}.entry-content .wp-block-cover:not([class*="background-color"]):not(.has-text-color.has-link-color) .wp-block-cover__inner-container,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover__inner-container,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-text {color: var(--ast-global-color-primary,var(--ast-global-color-5));}.wp-block-loginout .login-remember input {width: 1.1rem;height: 1.1rem;margin: 0 5px 4px 0;vertical-align: middle;}.wp-block-latest-posts > li > *:first-child,.wp-block-latest-posts:not(.is-grid) > li:first-child {margin-top: 0;}.entry-content > .wp-block-buttons,.entry-content > .wp-block-uagb-buttons {margin-bottom: 1.5em;}.wp-block-search__inside-wrapper .wp-block-search__input {padding: 0 10px;color: var(--ast-global-color-3);background: var(--ast-global-color-primary,var(--ast-global-color-5));border-color: var(--ast-border-color);}.wp-block-latest-posts .read-more {margin-bottom: 1.5em;}.wp-block-search__no-button .wp-block-search__inside-wrapper .wp-block-search__input {padding-top: 5px;padding-bottom: 5px;}.wp-block-latest-posts .wp-block-latest-posts__post-date,.wp-block-latest-posts .wp-block-latest-posts__post-author {font-size: 1rem;}.wp-block-latest-posts > li > *,.wp-block-latest-posts:not(.is-grid) > li {margin-top: 12px;margin-bottom: 12px;}.ast-page-builder-template .entry-content[data-ast-blocks-layout] > .alignwide:where(:not(.uagb-is-root-container):not(.spectra-is-root-container)) > * {max-width: var(--wp--custom--ast-wide-width-size);}.ast-page-builder-template .entry-content[data-ast-blocks-layout] > .inherit-container-width > *,.ast-page-builder-template .entry-content[data-ast-blocks-layout] > *:not(.wp-block-group):where(:not(.uagb-is-root-container):not(.spectra-is-root-container)) > *,.entry-content[data-ast-blocks-layout] > .wp-block-cover .wp-block-cover__inner-container {max-width: var(--wp--custom--ast-content-width-size) ;margin-left: auto;margin-right: auto;}.ast-page-builder-template .entry-content[data-ast-blocks-layout] > *,.ast-page-builder-template .entry-content[data-ast-blocks-layout] > .alignfull:where(:not(.wp-block-group):not(.uagb-is-root-container):not(.spectra-is-root-container)) > * {max-width: none;}.entry-content[data-ast-blocks-layout] .wp-block-cover:not(.alignleft):not(.alignright) {width: auto;}@media(max-width: 1200px) {.ast-separate-container .entry-content > .alignfull,.ast-separate-container .entry-content[data-ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[data-ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content .alignfull {margin-left: calc(-1 * min(var(--ast-container-default-xlg-padding),20px)) ;margin-right: calc(-1 * min(var(--ast-container-default-xlg-padding),20px));}}@media(min-width: 1201px) {.ast-separate-container .entry-content > .alignfull {margin-left: calc(-1 * var(--ast-container-default-xlg-padding) );margin-right: calc(-1 * var(--ast-container-default-xlg-padding) );}.ast-separate-container .entry-content[data-ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[data-ast-blocks-layout] > .alignwide {margin-left: calc(-1 * var(--wp--custom--ast-default-block-left-padding) );margin-right: calc(-1 * var(--wp--custom--ast-default-block-right-padding) );}}@media(min-width: 921px) {.ast-separate-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)),.ast-plain-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)) {max-width: calc( var(--wp--custom--ast-content-width-size) + 80px );}.ast-plain-container.ast-right-sidebar .entry-content[data-ast-blocks-layout] .alignfull,.ast-plain-container.ast-left-sidebar .entry-content[data-ast-blocks-layout] .alignfull {margin-left: -60px;margin-right: -60px;}}@media(min-width: 544px) {.entry-content > .alignleft {margin-right: 20px;}.entry-content > .alignright {margin-left: 20px;}}@media (max-width:544px){.wp-block-columns .wp-block-column:not(:last-child){margin-bottom:20px;}.wp-block-latest-posts{margin:0;}}@media( max-width: 600px ) {.entry-content .wp-block-media-text .wp-block-media-text__content,.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}}.ast-page-builder-template .entry-header {padding-left: 0;}.ast-narrow-container .site-content .wp-block-uagb-image--align-full .wp-block-uagb-image__figure {max-width: 100%;margin-left: auto;margin-right: auto;}.entry-content ul,.entry-content ol {padding: revert;margin: revert;padding-left: 20px;}.entry-content ul.wc-block-product-template{padding: 0;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#046bd2;--ast-global-color-1:#045cb4;--ast-global-color-2:#1e293b;--ast-global-color-3:#334155;--ast-global-color-4:#F0F5FA;--ast-global-color-5:#FFFFFF;--ast-global-color-6:#D1D5DB;--ast-global-color-7:#111111;--ast-global-color-8:#111111;}:root {--ast-border-color : var(--ast-global-color-6);}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: var(--ast-title-layout-bg);}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}.site .ast-author-avatar {--ast-author-avatar-size: ;}a.ast-underline-text {text-decoration: underline;}.ast-container > .ast-terms-link {position: relative;display: block;}a.ast-button.ast-badge-tax {padding: 4px 8px;border-radius: 3px;font-size: inherit;}header.entry-header{text-align:left;}header.entry-header .entry-title{font-weight:600;font-size:32px;font-size:2rem;}header.entry-header > *:not(:last-child){margin-bottom:10px;}header.entry-header .post-thumb-img-content{text-align:center;}header.entry-header .post-thumb img,.ast-single-post-featured-section.post-thumb img{aspect-ratio:16/9;width:100%;height:100%;}@media (max-width:921px){header.entry-header{text-align:left;}}@media (max-width:544px){header.entry-header{text-align:left;}}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: var(--ast-title-layout-bg);}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-weight:600;font-size:32px;font-size:2rem;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,h2,h3,h4,h5,h6,.entry-content :where(h1,h2,h3,h4,h5,h6){color:var(--ast-global-color-2);}.entry-title a{color:var(--ast-global-color-2);}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921.99px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-1 .menu-link:hover,.ast-builder-menu-1 .main-header-menu > .menu-item:hover > .menu-link,.ast-builder-menu-1 .inline-on-mobile .ast-menu-toggle:hover,.ast-builder-menu-1 .inline-on-mobile .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .ast-menu-toggle:hover,.ast-builder-menu-1 .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle,.ast-builder-menu-1 .current-menu-ancestor > .menu-link{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:var(--ast-global-color-0);border-style:solid;}.ast-builder-menu-1 .sub-menu .sub-menu{top:-2px;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 2px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children > .ast-menu-toggle{right:-15px;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921.99px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:var(--ast-global-color-5);min-height:60px;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:var( --ast-global-color-subtle-background,var(--ast-global-color-7) );}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;min-height:60px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:center;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921.99px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-footer-copyright{text-align:center;}.ast-footer-copyright.site-footer-focus-item {color:var(--ast-global-color-3);}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright.site-footer-focus-item {font-size:16px;font-size:1rem;}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921.99px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.footer-widget-area.widget-area.site-footer-focus-item{width:auto;}.ast-footer-row-inline .footer-widget-area.widget-area.site-footer-focus-item{width:100%;}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-page .ast-menu-toggle{color:unset;background:unset;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.elementor-toc__list-wrapper{margin:0;}body .elementor hr{background-color:#ccc;margin:0;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.elementor-posts-container [CLASS*="ast-width-"]{width:100%;}.elementor-template-full-width .ast-container{display:block;}.elementor-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{top:0 !important;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;}}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0px;margin-left:0px;width:.65em;transform:translate(0, -2px) rotateZ(270deg);}.ast-mobile-popup-content .ast-submenu-expanded > .ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto;}@media (min-width:922px){.ast-builder-menu .main-navigation > ul > li:last-child a{margin-right:0;}}.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}}.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description, .ast-separate-container .comments-area{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container .ast-article-single:not(.ast-related-post), .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);}}.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}}.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}}
-		#ast-scroll-top {
-			display: none;
-			position: fixed;
-			text-align: center;
-			cursor: pointer;
-			z-index: 99;
-			width: 2.1em;
-			height: 2.1em;
-			line-height: 2.1;
-			color: #ffffff;
-			border-radius: 2px;
-			content: "";
-			outline: inherit;
-		}
-		@media (min-width: 769px) {
-			#ast-scroll-top {
-				content: "769";
-			}
-		}
-		#ast-scroll-top .ast-icon.icon-arrow svg {
-			margin-left: 0px;
-			vertical-align: middle;
-			transform: translate(0, -20%) rotate(180deg);
-			width: 1.6em;
-		}
-		.ast-scroll-to-top-right {
-			right: 30px;
-			bottom: 30px;
-		}
-		.ast-scroll-to-top-left {
-			left: 30px;
-			bottom: 30px;
-		}
-	#ast-scroll-top{background-color:var(--ast-global-color-0);font-size:15px;}@media (max-width:921px){#ast-scroll-top .ast-icon.icon-arrow svg{width:1em;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);right: auto;}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:80px;}.ast-desktop:not(:has(.ast-header-sticked)) .ast-primary-header-bar .main-header-menu > .menu-item{line-height:80px;}.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar{padding-left:20px;padding-right:20px;}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:var( --ast-global-color-subtle-background,var(--ast-global-color-7) );border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:var( --ast-global-color-subtle-background,var(--ast-global-color-7) );border-bottom-style:solid;}}.ast-primary-header-bar{background-color:var( --ast-global-color-primary,var(--ast-global-color-4) );}.ast-primary-header-bar{display:block;}@media (max-width:921.99px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-0);border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:var(--ast-global-color-0);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-0);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-link:hover, .ast-builder-menu-mobile .main-navigation .main-header-menu > .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .ast-menu-toggle:hover, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .menu-link:hover, .ast-builder-menu-mobile .main-header-menu > .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .ast-menu-toggle:hover, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .ast-menu-toggle:hover, .ast-builder-menu-mobile .main-navigation .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder-menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-link:hover, .ast-builder-menu-mobile .main-navigation .main-header-menu > .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .ast-menu-toggle:hover, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .ast-menu-toggle:hover, .ast-builder-menu-mobile .main-navigation .main-header-menu > .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-mobile .main-navigation .main-header-menu , .ast-builder-menu-mobile .main-navigation .main-header-menu .menu-link, .ast-builder-menu-mobile .main-navigation .main-header-menu .sub-menu{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921.99px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}:root{--e-global-color-astglobalcolor0:#046bd2;--e-global-color-astglobalcolor1:#045cb4;--e-global-color-astglobalcolor2:#1e293b;--e-global-color-astglobalcolor3:#334155;--e-global-color-astglobalcolor4:#F0F5FA;--e-global-color-astglobalcolor5:#FFFFFF;--e-global-color-astglobalcolor6:#D1D5DB;--e-global-color-astglobalcolor7:#111111;--e-global-color-astglobalcolor8:#111111;}
-/*# sourceURL=astra-theme-css-inline-css */
-</style>
+<link rel='stylesheet' id='jkit-elements-main-css' href='https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=2.6.14' media='all' />
 <style id="wp-emoji-styles-inline-css">
 
 	img.wp-smiley, img.emoji {
@@ -96,67 +31,51 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 /*# sourceURL=wp-emoji-styles-inline-css */
 </style>
-<style id="wp-block-styles-placeholder-inline-css">
-:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
-/*# sourceURL=wp-block-styles-placeholder-inline-css */
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
 </style>
-<link rel='stylesheet' id='nta-css-popup-css' href='https://thiskarimunjawa.id/wp-content/plugins/wp-whatsapp/assets/dist/css/style.css?ver=3.8.2' media='all' />
-<link rel='stylesheet' id='jet-engine-frontend-css' href='https://thiskarimunjawa.id/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.2.3.1' media='all' />
-<style id="wp-global-styles-placeholder-inline-css">
-:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
-/*# sourceURL=wp-global-styles-placeholder-inline-css */
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://naturagro.co.id/wp-includes/blocks/heading/style.min.css */
 </style>
-<style id="hide_field_class_style-inline-css">
-.cfef-hidden , .cfef-hidden-step-field {
-					display: none !important;
-			 	}
-.cfef-hidden {
-					display: none !important;
-			 	}
-/*# sourceURL=hide_field_class_style-inline-css */
+<style id="wp-block-separator-inline-css">
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+/*# sourceURL=https://naturagro.co.id/wp-includes/blocks/separator/style.min.css */
 </style>
-<link rel='stylesheet' id='elementor-frontend-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='elementor-post-12-css' href='https://thiskarimunjawa.id/wp-content/uploads/elementor/css/post-12.css?ver=1781906484' media='all' />
-<link rel='stylesheet' id='elementor-pro-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.12.2' media='all' />
-<link rel='stylesheet' id='widget-heading-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='e-animation-bob-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-bob.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='e-animation-fadeInRight-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='widget-image-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='widget-divider-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='e-animation-fadeInDown-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='widget-icon-box-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='elementor-post-15-css' href='https://thiskarimunjawa.id/wp-content/uploads/elementor/css/post-15.css?ver=1781907118' media='all' />
-<link rel='stylesheet' id='elementor-post-26-css' href='https://thiskarimunjawa.id/wp-content/uploads/elementor/css/post-26.css?ver=1781906484' media='all' />
-<link rel='stylesheet' id='elementor-post-65-css' href='https://thiskarimunjawa.id/wp-content/uploads/elementor/css/post-65.css?ver=1781906484' media='all' />
-<link rel='stylesheet' id='tablepress-default-css' href='https://thiskarimunjawa.id/wp-content/plugins/tablepress/css/build/default.css?ver=3.3.2' media='all' />
-<script id="jquery-core-js" src="https://thiskarimunjawa.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
-<script id="jquery-migrate-js" src="https://thiskarimunjawa.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
-<link rel="https://api.w.org/" href="https://thiskarimunjawa.id/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://thiskarimunjawa.id/wp-json/wp/v2/pages/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thiskarimunjawa.id/xmlrpc.php?rsd" />
+
+
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://naturagro.co.id/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.0.1' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='elementor-frontend-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='elementor-post-16-css' href='https://naturagro.co.id/wp-content/uploads/elementor/css/post-16.css?ver=1779333014' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://naturagro.co.id/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://naturagro.co.id/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://naturagro.co.id/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://naturagro.co.id/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='sweetalert2-css' href='https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min.css?ver=11.6.16' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='e-shapes-css' href='https://naturagro.co.id/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.31.2' media='all' />
+<link rel='stylesheet' id='elementor-post-203-css' href='https://naturagro.co.id/wp-content/uploads/elementor/css/post-203.css?ver=1779334803' media='all' />
+<link rel='stylesheet' id='elementor-post-45-css' href='https://naturagro.co.id/wp-content/uploads/elementor/css/post-45.css?ver=1779333015' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://naturagro.co.id/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1754965175' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://naturagro.co.id/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1754965185' media='all' />
+<link rel='stylesheet' id='elementor-icons-jkiticon-css' href='https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=2.6.14' media='all' />
+<script id="jquery-core-js" src="https://naturagro.co.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://naturagro.co.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://naturagro.co.id/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://naturagro.co.id/wp-json/wp/v2/pages/12" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://naturagro.co.id/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 7.0" />
-<link rel='shortlink' href='https://thiskarimunjawa.id/?p=15' />
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NQHZGTSP');</script>
-<!-- End Google Tag Manager --><meta name="ti-site-data" content="eyJyIjoiMTowITc6MCEzMDowIiwibyI6Imh0dHBzOlwvXC90aGlza2FyaW11bmphd2EuaWQ/dGktb25saW5lLXVzZXJzLWdvb2dsZT0xJmFtcDtwPSUyRnRlbnRhbmcta2FtaSUyRiZhbXA7X3dwbm9uY2U9YWI0MDVkMTA3OSJ9" />
-<!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<!-- GTM Container placement set to automatic -->
-<script data-cfasync="false" data-pagespeed-no-defer>
-	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"PT. This Karimunjawa"};
-	dataLayer.push( dataLayer_content );
-</script>
-<script data-cfasync="false" data-pagespeed-no-defer>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PG9K64R8');
-</script>
-<!-- End Google Tag Manager for WordPress by gtm4wp.com --><!-- Analytics by WP Statistics - https://wp-statistics.com -->
-<meta name="generator" content="Elementor 4.1.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="canonical" href="https://naturagro.co.id/cart/" />
+<link rel='shortlink' href='https://naturagro.co.id/?p=12' />
+<meta name="generator" content="Elementor 3.31.2; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -175,189 +94,106 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					}
 				}
 			</style>
-			<link rel="icon" href="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun-150x150.jpg" sizes="32x32" />
-<link rel="icon" href="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun.jpg" />
-<meta name="msapplication-TileImage" content="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun.jpg" />
+			<link rel="icon" href="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png" />
+<meta name="msapplication-TileImage" content="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png" />
+<link rel='stylesheet' id='jeg-dynamic-style-css' href='https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0' media='all' />
+
 </head>
+<body class="wp-singular page-template-default page page-id-12 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor jkit-color-scheme hello-elementor-default elementor-default elementor-kit-16">
 
-<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="wp-singular page-template-default page page-id-15 wp-custom-logo wp-embed-responsive wp-theme-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.13.4 group-blog ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-template-full-width elementor-kit-12 elementor-page elementor-page-15">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQHZGTSP"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->			<script>
-			(function(){if(window.matchMedia('(max-width:921.99px)').matches){document.body.classList.add('ast-header-break-point');document.body.classList.remove('ast-desktop');}})();
-			</script>
-			
-<!-- GTM Container placement set to automatic -->
-<!-- Google Tag Manager (noscript) -->
-				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG9K64R8" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<a
-	class="skip-link screen-reader-text"
-	href="#content">
-		Skip to content</a>
 
-<div
-class="hfeed site" id="page">
-			<div data-elementor-type="header" data-elementor-id="26" class="elementor elementor-26 elementor-location-header">
-					<div class="elementor-section-wrap">
-								<section class="elementor-section elementor-top-section elementor-element elementor-element-5b9885c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5b9885c" data-element_type="section" data-e-type="section">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<div data-elementor-type="header" data-elementor-id="203" class="elementor elementor-203 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-128cb41 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="128cb41" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48b1e52" data-id="48b1e52" data-element_type="column" data-e-type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5299b64" data-id="5299b64" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-e7bdee8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e7bdee8" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ecd611e" data-id="ecd611e" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5c01b0e elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="5c01b0e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
-				<div class="elementor-widget-container">
-										<div class="elementor-image">
-								<a href="https://thiskarimunjawa.id">
-			<img width="842" height="1280" src="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun.jpg" class="attachment-full size-full wp-image-109" alt="" srcset="https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun.jpg 842w, https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun-197x300.jpg 197w, https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun-674x1024.jpg 674w, https://thiskarimunjawa.id/wp-content/uploads/2024/05/this-karimun-768x1168.jpg 768w" sizes="(max-width: 842px) 100vw, 842px" />				</a>
-										</div>
-								</div>
-				</div>
+						<div class="elementor-element elementor-element-2da10b4b elementor-icon-list--layout-inline elementor-mobile-align-center elementor-hidden-phone elementor-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2da10b4b" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://api.whatsapp.com/send?phone=6285640902411">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">(+62) </span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="mailto:info@NaturaGro.co.id?subject=Product%20Inquiry%20–%20%5BProduct%20Name%5D&#038;body=Hello%20NaturaGro%20Indonesia,I%20am%20interested%20in%20learning%20more%20about%20your%20products.%20Please%20find%20my%20details%20below:Product(s)%20of%20Interest:%20(e.g.,%20cacao%20powder,%20plywood,%20vanilla%20beans)Quantity%20Required:%20(e.g.,%205%20MT,%201%20container,%20sample%20order)Destination%20Country/Port:Preferred%20Incoterms:%20(e.g.,%20FOB,%20CIF,%20DDP)Expected%20Delivery%20Timeframe:Additional%20Requirements%20or%20Specifications:%20(e.g.,%20organic%20certification,%20packaging%20size,%20moisture%20content,%20etc.)Company%20Name%20&#038;%20Website:Contact%20Details:%20(Full%20name,%20email,%20phone/WhatsApp)Looking%20forward%20to%20your%20quotation%20and%20further%20discussion.Best%20regards,%5BYour%20Name%5D%5BYour%20Position%5D%5BYour%20Company%20Name%5D">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-envelope" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">info@NaturaGro.co.id</span>
+											</a>
+									</li>
+						</ul>
+						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2442f48" data-id="2442f48" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1b6aba4b" data-id="1b6aba4b" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-773a4ab4 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="773a4ab4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-20be23f4" data-id="20be23f4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-0183cdd elementor-nav-menu__align-justify elementor-widget-mobile__width-initial elementor-nav-menu--dropdown-mobile elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="0183cdd" data-element_type="widget" data-e-type="widget" data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-angle-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-								<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-sweep-left">
-				<ul id="menu-1-0183cdd" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-471"><a href="https://thiskarimunjawa.id/" class="elementor-item menu-link">HOME</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://thiskarimunjawa.id/detail-paket/" class="elementor-item menu-link">Detail paket</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://thiskarimunjawa.id/kontak-kami/" class="elementor-item menu-link">Kontak Kami</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-475"><a href="https://thiskarimunjawa.id/tentang-kami/" aria-current="page" class="elementor-item elementor-item-active menu-link">Tentang Kami</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="https://thiskarimunjawa.id/artikel/" class="elementor-item menu-link">Artikel</a></li>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-43326e84 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="43326e84" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-dce2736" data-id="dce2736" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-791902d elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="791902d" data-element_type="widget" data-widget_type="theme-site-logo.default">
+											<a href="https://naturagro.co.id">
+			<img fetchpriority="high" width="1199" height="536" src="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png" class="attachment-full size-full wp-image-236" alt="" decoding="async" srcset="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png 1199w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-300x134.png 300w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-1024x458.png 1024w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-768x343.png 768w" sizes="(max-width: 1199px) 100vw, 1199px" />				</a>
+											</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3e26d17b" data-id="3e26d17b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1bdae24a elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1bdae24a" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-1bdae24a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://naturagro.co.id/" class="elementor-item">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://naturagro.co.id/profile/" class="elementor-item">Profile</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://naturagro.co.id/product-2/" class="elementor-item">Our Product</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://naturagro.co.id/contact-us/" class="elementor-item">Contact Us</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>			<span class="elementor-screen-only">Menu</span>
-		</div>
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
 					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
-				<ul id="menu-2-0183cdd" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-471"><a href="https://thiskarimunjawa.id/" class="elementor-item menu-link" tabindex="-1">HOME</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://thiskarimunjawa.id/detail-paket/" class="elementor-item menu-link" tabindex="-1">Detail paket</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://thiskarimunjawa.id/kontak-kami/" class="elementor-item menu-link" tabindex="-1">Kontak Kami</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15 current_page_item menu-item-475"><a href="https://thiskarimunjawa.id/tentang-kami/" aria-current="page" class="elementor-item elementor-item-active menu-link" tabindex="-1">Tentang Kami</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="https://thiskarimunjawa.id/artikel/" class="elementor-item menu-link" tabindex="-1">Artikel</a></li>
+				<ul id="menu-2-1bdae24a" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://naturagro.co.id/" class="elementor-item" tabindex="-1">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://naturagro.co.id/profile/" class="elementor-item" tabindex="-1">Profile</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://naturagro.co.id/product-2/" class="elementor-item" tabindex="-1">Our Product</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://naturagro.co.id/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
 </ul>			</nav>
 						</div>
-				</div>
 					</div>
 		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-							</div>
-				</div>
-			<div id="content" class="site-content">
-		<div class="ast-container">
-				<div data-elementor-type="wp-page" data-elementor-id="15" class="elementor elementor-15">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-b7f2f15 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b7f2f15" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-566dd2c" data-id="566dd2c" data-element_type="column" data-e-type="column">
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-12ee73c3 elementor-hidden-tablet elementor-hidden-mobile" data-id="12ee73c3" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-be8edad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be8edad" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b3f4537" data-id="b3f4537" data-element_type="column" data-e-type="column">
+						<div class="elementor-element elementor-element-38d15f28 elementor-widget elementor-widget-jkit_search" data-id="38d15f28" data-element_type="widget" data-widget_type="jkit_search.default">
+					<div  class="jeg-elementor-kit jkit-search jeg_module_12__6a369c9dc20fa" ><a href="#" class="jkit-search-modal"><i aria-hidden="true" class="jki jki-search2-light"></i></a>
+			<div class="jkit-modal-search-panel-wrapper">
+				<div class="jkit-modal-search-panel">
+					<div class="jkit-search-panel">
+					<form role="search" method="get" class="jkit-search-group" action="https://naturagro.co.id/">
+						<input type="search" class="jkit-search-field" placeholder="Search..." value="" name="s" />
+						<button type="submit" class="jkit-search-button" aria-label="search-button"><i aria-hidden="true" class="jki jki-search2-light"></i></button>
+					</form>
+				</div>
+				</div>
+			</div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-26f0c0dd elementor-hidden-tablet" data-id="26f0c0dd" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-63239cd elementor-widget elementor-widget-heading" data-id="63239cd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">About Us</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-26bfe3e elementor-widget elementor-widget-text-editor" data-id="26bfe3e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Bersiaplah untuk petualangan yang luar biasa! Dapatkan pengalaman terbaik di Karimunjawa bersama This Karimunjawa Travel Agent. Ayo berangkat dan nikmati pesona alam yang menakjubkan!</p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-95a30ba" data-id="95a30ba" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap">
-							</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a1e6ad1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a1e6ad1" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-96b66f1" data-id="96b66f1" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-1642c84 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1642c84" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5984edb" data-id="5984edb" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap">
-							</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8b72458 elementor-invisible" data-id="8b72458" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-f07d5c4 elementor-widget elementor-widget-heading" data-id="f07d5c4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Wisata Karimunjawa</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-2f0b88a elementor-widget elementor-widget-text-editor" data-id="2f0b88a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Jelajahi keindahan Karimunjawa bersama This Karimunjawa dan buat kenangan tak terlupakan di surga tropis Indonesia!</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-b77f6cd elementor-align-center elementor-widget elementor-widget-button" data-id="b77f6cd" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-bob" href="#">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-right" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>			</span>
-									<span class="elementor-button-text">GALERI FOTO</span>
-					</span>
-					</a>
-				</div>
-								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5cf4fa6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cf4fa6" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bb22238" data-id="bb22238" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-ed5c141 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ed5c141" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5b8a4a1" data-id="5b8a4a1" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-9116f84 elementor-widget elementor-widget-image" data-id="9116f84" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="600" height="400" src="https://thiskarimunjawa.id/wp-content/uploads/2024/05/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg" class="attachment-large size-large wp-image-35" alt="" srcset="https://thiskarimunjawa.id/wp-content/uploads/2024/05/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400.jpg 600w, https://thiskarimunjawa.id/wp-content/uploads/2024/05/47581339-2282079771811773-5888505178639526312-n-e357686cfd795ba1e7497a85f01e472b_600x400-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c136ac1 elementor-invisible" data-id="c136ac1" data-element_type="column" data-e-type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-b312f1c elementor-widget elementor-widget-heading" data-id="b312f1c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Temukan Spot Wisata Terbaik dan Rasakan Pengalaman Tak Terlupakan Bersama Kami</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-aaad77b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="aaad77b" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
+						<div class="elementor-element elementor-element-6d7422c elementor-widget elementor-widget-shortcode" data-id="6d7422c" data-element_type="widget" data-widget_type="shortcode.default">
+							<div class="elementor-shortcode"><div class="gtranslate_wrapper" id="gt-wrapper-87172740"></div></div>
 						</div>
-				</div>
-				<div class="elementor-element elementor-element-108d5a1 elementor-widget elementor-widget-text-editor" data-id="108d5a1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Karimunjawa adalah gugusan kepulauan di Laut Jawa, Kabupaten Jepara, Jawa Tengah, terkenal dengan keindahan alam bawah laut, pantai berpasir putih, dan keanekaragaman hayati. Dikenal sebagai &#8220;The Paradise of Java,&#8221; Karimunjawa menawarkan air laut jernih, terumbu karang yang terjaga, dan berbagai aktivitas seperti snorkeling, diving, serta interaksi dengan hiu jinak. </p><p>Pantai-pantai eksotis seperti Pantai Tanjung Gelam dan hutan mangrove menambah pesona alamnya. Budaya lokal yang ramah dan kuliner laut segar memperkaya pengalaman wisata. Akses ke Karimunjawa dapat ditempuh melalui perjalanan laut dari Jepara atau Semarang, atau penerbangan kecil ke Bandara Dewadaru. Karimunjawa adalah destinasi sempurna untuk petualangan alam dan ketenangan.</p>								</div>
-				</div>
 					</div>
 		</div>
 					</div>
@@ -366,408 +202,299 @@ class="hfeed site" id="page">
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f2c6592 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="f2c6592" data-element_type="section" data-e-type="section" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8897a6a" data-id="8897a6a" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-9b75c2d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9b75c2d" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-466b5e1" data-id="466b5e1" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-36f1780 elementor-widget elementor-widget-heading" data-id="36f1780" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Booking dengan Mudah</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-f4f192f elementor-widget elementor-widget-text-editor" data-id="f4f192f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Booking mudah dengan layanan dan respon yang cepat. Jangan sungkan untuk menghubungi, karena travel consultan kami siap melayani Anda 24 jam.</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-776fc95 elementor-align-center elementor-widget elementor-widget-button" data-id="776fc95" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-bob" href="https://wa.me/6282323558485?&#038;text=Hii%20This%20Karimunjawa,%20saya%20mau%20konsultasi%20&#038;%20booking%20paket%20wisata%20Karimunjawa%20...">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path></svg>			</span>
-									<span class="elementor-button-text">CALL NOW</span>
-					</span>
-					</a>
-				</div>
-								</div>
-				</div>
+		<div class="elementor-element elementor-element-cc42dda e-flex e-con-boxed e-con e-parent" data-id="cc42dda" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c63c4a7 elementor-widget elementor-widget-theme-page-title elementor-page-title elementor-widget-heading" data-id="c63c4a7" data-element_type="widget" data-widget_type="theme-page-title.default">
+					<h1 class="elementor-heading-title elementor-size-default">Cart</h1>				</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d0c3e88" data-id="d0c3e88" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5e5ab3d elementor-widget elementor-widget-image" data-id="5e5ab3d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="750" height="500" src="https://thiskarimunjawa.id/wp-content/uploads/2024/05/karimunjawa-4.jpg" class="attachment-large size-large wp-image-74" alt="" srcset="https://thiskarimunjawa.id/wp-content/uploads/2024/05/karimunjawa-4.jpg 750w, https://thiskarimunjawa.id/wp-content/uploads/2024/05/karimunjawa-4-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />															</div>
 				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-937bcb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="937bcb5" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1df7a2e" data-id="1df7a2e" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3ca6fd6 elementor-invisible elementor-widget elementor-widget-heading" data-id="3ca6fd6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Mengapa Harus Kami?</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-9c8a457 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9c8a457" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f853553 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f853553" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-35978e6 elementor-invisible" data-id="35978e6" data-element_type="column" data-e-type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-95f8c28 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="95f8c28" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
+		
+<main id="content" class="site-main post-12 page type-page status-publish hentry">
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-umbrella-beach" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M115.38 136.9l102.11 37.18c35.19-81.54 86.21-144.29 139-173.7-95.88-4.89-188.78 36.96-248.53 111.8-6.69 8.4-2.66 21.05 7.42 24.72zm132.25 48.16l238.48 86.83c35.76-121.38 18.7-231.66-42.63-253.98-7.4-2.7-15.13-4-23.09-4-58.02.01-128.27 69.17-172.76 171.15zM521.48 60.5c6.22 16.3 10.83 34.6 13.2 55.19 5.74 49.89-1.42 108.23-18.95 166.98l102.62 37.36c10.09 3.67 21.31-3.43 21.57-14.17 2.32-95.69-41.91-187.44-118.44-245.36zM560 447.98H321.06L386 269.5l-60.14-21.9-72.9 200.37H16c-8.84 0-16 7.16-16 16.01v32.01C0 504.83 7.16 512 16 512h544c8.84 0 16-7.17 16-16.01v-32.01c0-8.84-7.16-16-16-16z"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
+			<div class="page-header">
+			<h1 class="entry-title">Cart</h1>		</div>
+	
+	<div class="page-content">
+		
+<div class="wp-block-woocommerce-cart alignwide is-loading">
+<div class="wp-block-woocommerce-filled-cart-block">
+<div class="wp-block-woocommerce-cart-items-block">
+<div class="wp-block-woocommerce-cart-line-items-block"></div>
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Destinasi Terbaik						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						This Karimunjawa memiliki keunggulan dalam menyajikan destinasi wisata terbaik di Karimunjawa dengan pendekatan yang personal dan profesional. Kami menawarkan pengalaman yang mendalam dan autentik melalui paket wisata yang dirancang khusus sesuai dengan kebutuhan dan preferensi setiap pelanggan.					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-193023e elementor-invisible" data-id="193023e" data-element_type="column" data-e-type="column" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-a4e6845 elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="a4e6845" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fab-bitcoin" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zm-141.651-35.33c4.937-32.999-20.191-50.739-54.55-62.573l11.146-44.702-27.213-6.781-10.851 43.524c-7.154-1.783-14.502-3.464-21.803-5.13l10.929-43.81-27.198-6.781-11.153 44.686c-5.922-1.349-11.735-2.682-17.377-4.084l.031-.14-37.53-9.37-7.239 29.062s20.191 4.627 19.765 4.913c11.022 2.751 13.014 10.044 12.68 15.825l-12.696 50.925c.76.194 1.744.473 2.829.907-.907-.225-1.876-.473-2.876-.713l-17.796 71.338c-1.349 3.348-4.767 8.37-12.471 6.464.271.395-19.78-4.937-19.78-4.937l-13.51 31.147 35.414 8.827c6.588 1.651 13.045 3.379 19.4 5.006l-11.262 45.213 27.182 6.781 11.153-44.733a1038.209 1038.209 0 0 0 21.687 5.627l-11.115 44.523 27.213 6.781 11.262-45.128c46.404 8.781 81.299 5.239 95.986-36.727 11.836-33.79-.589-53.281-25.004-65.991 17.78-4.098 31.174-15.792 34.747-39.949zm-62.177 87.179c-8.41 33.79-65.308 15.523-83.755 10.943l14.944-59.899c18.446 4.603 77.6 13.717 68.811 48.956zm8.417-87.667c-7.673 30.736-55.031 15.12-70.393 11.292l13.548-54.327c15.363 3.828 64.836 10.973 56.845 43.035z"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Harga Kompetitif						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Kami menawarkan harga kompetitif pada setiap paket wisata yang ditawarkan dan selalu berusaha untuk memberikan penawaran terbaik tanpa mengorbankan kualitas pengalaman wisata. Dengan harga yang bersaing, kami memastikan bahwa setiap pelanggan dapat menikmati keindahan Karimunjawa tanpa harus merasa terbebani secara finansial.					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5272f5d elementor-invisible" data-id="5272f5d" data-element_type="column" data-e-type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-0c42cff elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="0c42cff" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
+<div class="wp-block-woocommerce-cart-cross-sells-block">
+<h2 class="wp-block-heading has-large-font-size">You may be interested in…</h2>
 
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-hotel" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M560 64c8.84 0 16-7.16 16-16V16c0-8.84-7.16-16-16-16H16C7.16 0 0 7.16 0 16v32c0 8.84 7.16 16 16 16h15.98v384H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h240v-80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16v80h240c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16h-16V64h16zm-304 44.8c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4c0 6.4-6.4 12.8-12.8 12.8h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4zm0 96c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4c0 6.4-6.4 12.8-12.8 12.8h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4zm-128-96c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4c0 6.4-6.4 12.8-12.8 12.8h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4zM179.2 256h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4c0 6.4-6.4 12.8-12.8 12.8zM192 384c0-53.02 42.98-96 96-96s96 42.98 96 96H192zm256-140.8c0 6.4-6.4 12.8-12.8 12.8h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4zm0-96c0 6.4-6.4 12.8-12.8 12.8h-38.4c-6.4 0-12.8-6.4-12.8-12.8v-38.4c0-6.4 6.4-12.8 12.8-12.8h38.4c6.4 0 12.8 6.4 12.8 12.8v38.4z"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
 
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Booking Mudah						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						This Karimunjawa mempersembahkan keunggulan dalam layanan booking yang sangat mudah dan fleksibel bagi setiap pelanggan. Dengan layanan booking yang mudah dan fleksibel ini, This Karimunjawa berkomitmen untuk memberikan pengalaman yang lancar dan tanpa masalah bagi setiap pelanggan kami.					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-51711ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51711ff" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-91cd2e6" data-id="91cd2e6" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-b6b4f7e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="b6b4f7e" data-element_type="section" data-e-type="section" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ff6346e" data-id="ff6346e" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-						<div class="elementor-element elementor-element-91bac90 elementor-widget elementor-widget-heading" data-id="91bac90" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Paket Tour This Karimunjawa</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-8d83871 elementor-widget elementor-widget-text-editor" data-id="8d83871" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Informasi mengenai paket lengkap bisa Anda lihat di sini</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-4b2d518 elementor-widget elementor-widget-button" data-id="4b2d518" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-right" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>			</span>
-									<span class="elementor-button-text">More info</span>
-					</span>
-					</a>
-				</div>
-								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b7ebb7f" data-id="b7ebb7f" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-1f5c4d1 elementor-widget elementor-widget-heading" data-id="1f5c4d1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Paket Tour Bervariasi</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-8a2fc43 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8a2fc43" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-cc6b5e1 elementor-widget elementor-widget-text-editor" data-id="cc6b5e1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Dengan beragam paket wisata yang disesuaikan dengan kebutuhan dan preferensi Anda, bersama This Karimunjawa Travel Agent, setiap momen perjalanan Anda akan diisi dengan kegembiraan dan keajaiban alam Karimunjawa.</p>								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f6ff865 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f6ff865" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e930181" data-id="e930181" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-fdee31b elementor-widget elementor-widget-html" data-id="fdee31b" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-					<pre class="ti-widget" style="display: none"><template id="trustindex-google-widget-html"><div class=" ti-widget  ti-goog ti-review-text-mode-readmore ti-text-align-left" data-no-translation="true" data-time-locale="%d %s ago|today|day|days|week|weeks|month|months|year|years" data-plugin-version="13.2.9" data-layout-id="34" data-layout-category="slider" data-set-id="light-background" data-pid="" data-language="en" data-close-locale="Close" data-review-target-width="300" data-css-version="2" data-reply-by-locale="Owner&apos;s reply" data-only-rating-locale="This user only left a rating." data-pager-autoplay-timeout="6"> <div class="ti-widget-container ti-col-3"> <div class="ti-header ti-header-grid source-Google"> <div class="ti-fade-container"> <div class="ti-rating-text"> <strong class="ti-rating ti-rating-large"> EXCELLENT </strong> </div> <span class="ti-stars star-lg"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image></span> <div class="ti-rating-text"> <span class="nowrap">Based on <strong>40 reviews</strong></span> </div> <div class="ti-large-logo"> <div class="ti-v-center"> <trustindex-image class="ti-logo-fb" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/logo.svg" width="150" height="25" loading="lazy" alt="Google"></trustindex-image> </div> </div> </div> </div> <div class="ti-reviews-container"> <div class="ti-controls"> <div class="ti-next" aria-label="Next review" role="button" tabindex="0"></div> <div class="ti-prev" aria-label="Previous review" role="button" tabindex="0"></div> </div> <div class="ti-reviews-container-wrapper">  <div data-empty="0" data-time="1753401600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a-/ALV-UjXis9eheGGIjQYs0Ac9JsEnIGeSrzXzyC-crY73n7OquSEOw7Z7sg=w40-h40-c-rp-mo-ba6-br100" alt="Surya Dwi Vrananta profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Surya Dwi Vrananta </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Perjalanan ke Karimunjawa yang sangat menyenangkan,
-Pelayanan sangat memuaskan,
-Jadwal yang tepat waktu,
-Membuat liburan sangat berkesan.
 
-Terimakasih atas pelayanan nya, lain waktu saya hubungi lagi jika ke karimunjawa lagi.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1753401600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a-/ALV-UjWaq75HOJBnpocb6Boc319BcqtSKTLBVnXw6P_KI_zMErIqtVIi=w40-h40-c-rp-mo-br100" alt="Cahyaa Channels profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Cahyaa Channels </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Pelayanan nya baik terimakasih<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1753401600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocIqhahpl4eqFC020mb8-0Fk6d7Dt699y9r_lRblo_1DBHyujA=w40-h40-c-rp-mo-br100" alt="Uswatun Khasanah profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Uswatun Khasanah </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Pelayanan sangat baik dan pemandu tour ramah sekali. Rekomendasi banget buat kalian yang mau pakai jasa This Karimunjawa Tour &amp; Travel 🤩<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1753401600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocLrZwGmktFcgICfNKL46eeF4Fc63sL9UA5-TQPbA7MZtGt2vQ=w40-h40-c-rp-mo-br100" alt="Imam Bekti profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Imam Bekti </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Mantuuulll pelayanannya bossquuuhh... Thank youu..<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1753401600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocKxCMV-yqQ6aKkCc_Z0BhdEP-ACEMqW8ZELBHsA1VQV7QYk0A=w40-h40-c-rp-mo-br100" alt="Dyah Pramastuti profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Dyah Pramastuti </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Trims pelayanannya slma di Karimunjawa mas Eko, puas dengan homestay dan makanannya. sukses buat tim di Karimunjawa.
-Pasti kapan2 kita akan kembali lagi.<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1747785600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocIoy6evGpLntW3Hje8uNIUp7gBldPdnRSspQOuXIloodcxr6g=w40-h40-c-rp-mo-br100" alt="RIZAL DZAKIR profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> RIZAL DZAKIR </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->pemandu wisatanya baik sekali<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1721088000" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocKor2iNBA6CY7uDaSCSAh8h5FqJJjTywROTKdwabtsS6qSUnFs=w40-h40-c-rp-mo-br100" alt="Bang Agnicx profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Bang Agnicx </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Perjalanan ke Karimunjawa dengan tour &amp; travel ini sungguh mengesankan dari awal hingga akhir. Seluruh jadwal perjalanan diatur dengan sangat cepat dan profesional. Panduan wisata kami sangat ramah, berpengetahuan luas, dan selalu tepat waktu.
-
-Selama di Karimunjawa, kami menikmati snorkeling di beberapa spot terbaik. Udara yang jernih dan indahnya bawah laut dengan terumbu karang yang berwarna-warni serta berbagai jenis ikan yang benar-benar memukau. Selain itu, wisata daratnya juga tak kalah menarik. Kami mengunjungi berbagai tempat indah seperti bukit love dengan pemandangan yang menakjubkan dan pantai-pantai eksotis yang sangat indah.
-
-Akomodasi yang disediakan sangat nyaman, dan makanannya sangat lezat serta bervariasi. Semua fasilitas dan layanan yang diberikan benar-benar memuaskan.
-
-Karimunjawa memang destinasi yang layak dikunjungi untuk para penggemar alam dan keindahan bawah laut<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  <div data-empty="0" data-time="1721001600" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da"> <div class="ti-inner"> <div class="ti-review-header"> <div class="ti-platform-icon ti-with-tooltip"> <span class="ti-tooltip">Posted on </span> <trustindex-image data-imgurl="https://cdn.trustindex.io/assets/platform/Google/icon.svg" alt="" width="20" height="20" loading="lazy"></trustindex-image> </div> <div class="ti-profile-img"> <trustindex-image data-imgurl="https://lh3.googleusercontent.com/a/ACg8ocI7rbVLfStVbIvcFVj4-TTf1d2iadVzZe1CEUozh_qTTEJZRw=w40-h40-c-rp-mo-br100" alt="Johanna Deborah Imelda profile picture" loading="lazy"></trustindex-image> </div> <div class="ti-profile-details"> <div class="ti-name"> Johanna Deborah Imelda </div> <div class="ti-date"></div> </div> </div> <span class="ti-stars"><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 1" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 2" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 3" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 4" width="17" height="17" loading="lazy"></trustindex-image><trustindex-image class="ti-star" data-imgurl="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Google star 5" width="17" height="17" loading="lazy"></trustindex-image><span class="ti-verified-review ti-verified-platform"><span class="ti-verified-tooltip">Trustindex verifies that the original source of the review is Google.</span></span></span> <div class="ti-review-text-container ti-review-content"><!-- R-CONTENT -->Liburan yang menyenangkan yang terkoordinasi dengan baik di bawah manajemen This Karimunjawa. Sangat direkomendasi....<!-- R-CONTENT --></div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Hide" data-open-text="Read more"></span> </div> </div>  </div> <div class="ti-controls-line"> <div class="dot"></div> </div> </div>   <div class="ti-verified-by ti-verified-by-row" data-style="1"> <div class="ti-inner"> Verified by Trustindex <span class="ti-info-icon"></span> <div class="ti-disclaimer">Trustindex verified badge is the Universal Symbol of Trust. Only the greatest companies can get the verified badge who has a review score above 4.5, based on customer reviews over the past 12 months. <a href="https://www.trustindex.io/?a=sys&amp;c=wp-verified-badge&amp;url=/the-trustindex-verified-badge/" target="_blank">Read more</a></div> </div> </div>  </div> </div> </template></pre><div data-src="https://cdn.trustindex.io/loader.js?wp-widget" data-template-id="trustindex-google-widget-html" data-css-url="https://thiskarimunjawa.id/wp-content/uploads/trustindex-google-widget.css?1776698027"></div>				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				</div>
-			</div> <!-- ast-container -->
-	</div><!-- #content -->
-		<div data-elementor-type="footer" data-elementor-id="65" class="elementor elementor-65 elementor-location-footer">
-					<div class="elementor-section-wrap">
-								<section class="elementor-section elementor-top-section elementor-element elementor-element-62e4e79 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62e4e79" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64970ae" data-id="64970ae" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-f927dfa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f927dfa" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-de2735b" data-id="de2735b" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6e02628 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="6e02628" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
-
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Kantor Kami						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Kepulauan Karimunjawa, Kabupaten Jepara, Jawa Tengah, Indonesia					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5d1426d" data-id="5d1426d" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-48e8f33 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="48e8f33" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
-
-						<div class="elementor-icon-box-icon">
-				<a href="https://wa.me/6282323558485?&#038;text=Hii%20This%20Karimunjawa,%20saya%20mau%20konsultasi%20&#038;%20booking%20paket%20wisata%20Karimunjawa%20..." class="elementor-icon" tabindex="-1" aria-label="Hubungi Kami">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path></svg>				</a>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title">
-						<a href="https://wa.me/6282323558485?&#038;text=Hii%20This%20Karimunjawa,%20saya%20mau%20konsultasi%20&#038;%20booking%20paket%20wisata%20Karimunjawa%20..." >
-							Hubungi Kami						</a>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Admin 1 : 0823-2355-8485 <br>
-Admin 2 : 0814-6007-2750					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1c0075e" data-id="1c0075e" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-29de2e0 elementor-position-inline-start elementor-view-default elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box" data-id="29de2e0" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper">
-
-						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-far-envelope" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title">
-						<span  >
-							Email Kami						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description">
-						Admin@thiskarimunjawa.id					</p>
-				
-			</div>
-			
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-467bb8c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="467bb8c" data-element_type="section" data-e-type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-10e6f15" data-id="10e6f15" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6783a31 elementor-widget elementor-widget-google_maps" data-id="6783a31" data-element_type="widget" data-e-type="widget" data-widget_type="google_maps.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-custom-embed">
-			<iframe loading="lazy"
-					src="https://maps.google.com/maps?q=THIS%20KARIMUNJAWA%20&#038;t=m&#038;z=13&#038;output=embed&#038;iwloc=near"
-					title="THIS KARIMUNJAWA "
-					aria-label="THIS KARIMUNJAWA "
-			></iframe>
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-fb75b0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb75b0f" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d97a285" data-id="d97a285" data-element_type="column" data-e-type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5fcd7d2 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5fcd7d2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
-							<span class="elementor-grid-item" role="listitem">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-cd4ddd5" target="_blank">
-						<span class="elementor-screen-only">Facebook</span>
-						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
-				</span>
-							<span class="elementor-grid-item" role="listitem">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-repeater-item-b219264" target="_blank">
-						<span class="elementor-screen-only">X-twitter</span>
-						<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
-				</span>
-							<span class="elementor-grid-item" role="listitem">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-31898a9" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
-				</span>
-							<span class="elementor-grid-item" role="listitem">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-f17c832" target="_blank">
-						<span class="elementor-screen-only">Instagram</span>
-						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
-				</span>
-					</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-							</div>
-				</div>
-			</div><!-- #page -->
-<script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/astra/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
-<div id="wa"></div>
-<div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
-	<span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewbox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
-                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
+<div class="wp-block-woocommerce-cart-cross-sells-products-block"></div>
 </div>
+</div>
+
+
+
+<div class="wp-block-woocommerce-cart-totals-block">
+<div class="wp-block-woocommerce-cart-order-summary-block">
+<div class="wp-block-woocommerce-cart-order-summary-heading-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-coupon-form-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-subtotal-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-fee-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-discount-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-shipping-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-order-summary-taxes-block"></div>
+</div>
+
+
+
+<div class="wp-block-woocommerce-cart-express-payment-block"></div>
+
+
+
+<div class="wp-block-woocommerce-proceed-to-checkout-block"></div>
+
+
+
+<div class="wp-block-woocommerce-cart-accepted-payment-methods-block"></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-woocommerce-empty-cart-block">
+<h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title">Your cart is currently empty!</h2>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+
+
+
+<h2 class="wp-block-heading has-text-align-center">New in store</h2>
+
+
+</div>
+</div>
+
+		
+			</div>
+
+	
+</main>
+
+			<div data-elementor-type="footer" data-elementor-id="45" class="elementor elementor-45 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-36677711 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="36677711" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;waves&quot;}">
+							<div class="elementor-background-overlay"></div>
+						<div class="elementor-shape elementor-shape-top" aria-hidden="true" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7
+	c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4
+	c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b05da45" data-id="5b05da45" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-65e60631 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="65e60631" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-565e3637" data-id="565e3637" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f6b6176 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="f6b6176" data-element_type="widget" data-widget_type="theme-site-logo.default">
+											<a href="https://naturagro.co.id">
+			<img width="1199" height="536" src="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png" class="attachment-full size-full wp-image-236" alt="" decoding="async" srcset="https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1.png 1199w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-300x134.png 300w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-1024x458.png 1024w, https://naturagro.co.id/wp-content/uploads/2025/08/new-logo-naturagro-1-768x343.png 768w" sizes="(max-width: 1199px) 100vw, 1199px" />				</a>
+											</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-15e67399" data-id="15e67399" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-450ff4e3 elementor-widget elementor-widget-heading" data-id="450ff4e3" data-element_type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Quick Link</h6>				</div>
+				<div class="elementor-element elementor-element-508e74f8 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-left elementor-view-default elementor-widget elementor-widget-divider" data-id="508e74f8" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="jki jki-Leaf-light"></i></div>
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-5a2bc873 elementor-align-left elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5a2bc873" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/profile/">
+
+											<span class="elementor-icon-list-text">About Us</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product-2/">
+
+											<span class="elementor-icon-list-text">Our Product</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/contact-us/">
+
+											<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7df84603" data-id="7df84603" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2ea953bd elementor-widget elementor-widget-heading" data-id="2ea953bd" data-element_type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Product </h6>				</div>
+				<div class="elementor-element elementor-element-25d4929f elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-left elementor-view-default elementor-widget elementor-widget-divider" data-id="25d4929f" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="jki jki-Leaf-light"></i></div>
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-28dbb8b elementor-align-left elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="28dbb8b" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/vanilla/">
+
+											<span class="elementor-icon-list-text">Vanilla</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/spices/">
+
+											<span class="elementor-icon-list-text">Spices</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/cocoa/">
+
+											<span class="elementor-icon-list-text">Cocoa</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/coffee/">
+
+											<span class="elementor-icon-list-text">Coffee</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/coconut/">
+
+											<span class="elementor-icon-list-text">Coconut</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://naturagro.co.id/product/palm-oil/">
+
+											<span class="elementor-icon-list-text">Palm Oil</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Tea</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Tropical Fruits</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7e1286be" data-id="7e1286be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a59d2a6 elementor-widget elementor-widget-heading" data-id="a59d2a6" data-element_type="widget" data-widget_type="heading.default">
+					<h6 class="elementor-heading-title elementor-size-default">Get in Touch</h6>				</div>
+				<div class="elementor-element elementor-element-25dc947 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-left elementor-view-default elementor-widget elementor-widget-divider" data-id="25dc947" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="jki jki-Leaf-light"></i></div>
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-613bcb9a elementor-widget elementor-widget-text-editor" data-id="613bcb9a" data-element_type="widget" data-widget_type="text-editor.default">
+									<p>Address: Sampoerna Strategic Square, North Tower, 11th Floor, Jl. Jend. Sudirman No.45-46, South Jakarta, Indonesia</p><p>Email: info@NaturaGro.co.id</p>								</div>
+				<div class="elementor-element elementor-element-ce243f2 elementor-widget elementor-widget-button" data-id="ce243f2" data-element_type="widget" data-widget_type="button.default">
+										<a class="elementor-button elementor-button-link elementor-size-sm" href="mailto:info@NaturaGro.co.id?subject=Product%20Inquiry%20–%20%5BProduct%20Name%5D&#038;body=Hello%20NaturaGro%20Indonesia,I%20am%20interested%20in%20learning%20more%20about%20your%20products.%20Please%20find%20my%20details%20below:Product(s)%20of%20Interest:%20(e.g.,%20cacao%20powder,%20plywood,%20vanilla%20beans)Quantity%20Required:%20(e.g.,%205%20MT,%201%20container,%20sample%20order)Destination%20Country/Port:Preferred%20Incoterms:%20(e.g.,%20FOB,%20CIF,%20DDP)Expected%20Delivery%20Timeframe:Additional%20Requirements%20or%20Specifications:%20(e.g.,%20organic%20certification,%20packaging%20size,%20moisture%20content,%20etc.)Company%20Name%20&#038;%20Website:Contact%20Details:%20(Full%20name,%20email,%20phone/WhatsApp)Looking%20forward%20to%20your%20quotation%20and%20further%20discussion.Best%20regards,%5BYour%20Name%5D%5BYour%20Position%5D%5BYour%20Company%20Name%5D">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">CONTACT US</span>
+					</span>
+					</a>
+								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-728d6b76 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="728d6b76" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-45f3e5a3" data-id="45f3e5a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a21e831 elementor-widget elementor-widget-heading" data-id="5a21e831" data-element_type="widget" data-widget_type="heading.default">
+					<p class="elementor-heading-title elementor-size-default">Copyright ©2025 PT Naturagro Nusantara Raharja. All Rights Reserved.</p>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6da11e2a" data-id="6da11e2a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-399e8611 elementor-align-right elementor-mobile-align-center elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="399e8611" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Terms & conditions</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Privacy Policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">Supports</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
 			<script>
 				const lazyloadRunObserver = () => {
 					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
@@ -794,62 +521,47 @@ Admin 2 : 0814-6007-2750					</p>
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
-			<link rel='stylesheet' id='widget-google_maps-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='widget-social-icons-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.3' media='all' />
-<link rel='stylesheet' id='e-apple-webkit-css' href='https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.3' media='all' />
-<style id="global-styles-inline-css">
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ast-global-color-0: var(--ast-global-color-0);--wp--preset--color--ast-global-color-1: var(--ast-global-color-1);--wp--preset--color--ast-global-color-2: var(--ast-global-color-2);--wp--preset--color--ast-global-color-3: var(--ast-global-color-3);--wp--preset--color--ast-global-color-4: var(--ast-global-color-4);--wp--preset--color--ast-global-color-5: var(--ast-global-color-5);--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size); }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-color{color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-color{color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-color{color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-color{color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-color{color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-color{color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-color{color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-color{color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-color{color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-background-color{background-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-background-color{background-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-background-color{background-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-background-color{background-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-background-color{background-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-background-color{background-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-background-color{background-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-background-color{background-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-background-color{background-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-border-color{border-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-border-color{border-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-border-color{border-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-border-color{border-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-border-color{border-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-border-color{border-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-border-color{border-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-border-color{border-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-border-color{border-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-/*# sourceURL=global-styles-inline-css */
-</style>
-<script id="astra-theme-js-js-extra">
-var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1","is_header_footer_builder_active":"1","responsive_cart_click":"flyout","is_dark_palette":""};
-//# sourceURL=astra-theme-js-js-extra
-</script>
-<script id="astra-theme-js-js" src="https://thiskarimunjawa.id/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.4"></script>
-<script id="nta-wa-libs-js" src="https://thiskarimunjawa.id/wp-content/plugins/wp-whatsapp/assets/dist/js/njt-whatsapp.js?ver=3.8.2"></script>
-<script id="nta-js-global-js-extra">
-var njt_wa_global = {"ajax_url":"https://thiskarimunjawa.id/wp-admin/admin-ajax.php","nonce":"e4418b223a","defaultAvatarSVG":"\u003Csvg width=\"48px\" height=\"48px\" class=\"nta-whatsapp-default-avatar\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\n            viewBox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xml:space=\"preserve\"\u003E\n            \u003Cpath style=\"fill:#EDEDED;\" d=\"M0,512l35.31-128C12.359,344.276,0,300.138,0,254.234C0,114.759,114.759,0,255.117,0\n            S512,114.759,512,254.234S395.476,512,255.117,512c-44.138,0-86.51-14.124-124.469-35.31L0,512z\"/\u003E\n            \u003Cpath style=\"fill:#55CD6C;\" d=\"M137.71,430.786l7.945,4.414c32.662,20.303,70.621,32.662,110.345,32.662\n            c115.641,0,211.862-96.221,211.862-213.628S371.641,44.138,255.117,44.138S44.138,137.71,44.138,254.234\n            c0,40.607,11.476,80.331,32.662,113.876l5.297,7.945l-20.303,74.152L137.71,430.786z\"/\u003E\n            \u003Cpath style=\"fill:#FEFEFE;\" d=\"M187.145,135.945l-16.772-0.883c-5.297,0-10.593,1.766-14.124,5.297\n            c-7.945,7.062-21.186,20.303-24.717,37.959c-6.179,26.483,3.531,58.262,26.483,90.041s67.09,82.979,144.772,105.048\n            c24.717,7.062,44.138,2.648,60.028-7.062c12.359-7.945,20.303-20.303,22.952-33.545l2.648-12.359\n            c0.883-3.531-0.883-7.945-4.414-9.71l-55.614-25.6c-3.531-1.766-7.945-0.883-10.593,2.648l-22.069,28.248\n            c-1.766,1.766-4.414,2.648-7.062,1.766c-15.007-5.297-65.324-26.483-92.69-79.448c-0.883-2.648-0.883-5.297,0.883-7.062\n            l21.186-23.834c1.766-2.648,2.648-6.179,1.766-8.828l-25.6-57.379C193.324,138.593,190.676,135.945,187.145,135.945\"/\u003E\n        \u003C/svg\u003E","defaultAvatarUrl":"https://thiskarimunjawa.id/wp-content/plugins/wp-whatsapp/assets/img/whatsapp_logo.svg","timezone":"Asia/Jakarta","i18n":{"online":"Online","offline":"Offline"},"urlSettings":{"onDesktop":"api","onMobile":"api","openInNewTab":"ON"}};
-//# sourceURL=nta-js-global-js-extra
-</script>
-<script id="nta-js-global-js" src="https://thiskarimunjawa.id/wp-content/plugins/wp-whatsapp/assets/js/whatsapp-button.js?ver=3.8.2"></script>
-<script id="elementor-webpack-runtime-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.3"></script>
-<script id="elementor-frontend-modules-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.3"></script>
-<script id="jquery-ui-core-js" src="https://thiskarimunjawa.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
+			<script id="hello-theme-frontend-js" src="https://naturagro.co.id/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4"></script>
+<script id="elementor-webpack-runtime-js" src="https://naturagro.co.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.31.2"></script>
+<script id="elementor-frontend-modules-js" src="https://naturagro.co.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.31.2"></script>
+<script id="jquery-ui-core-js" src="https://naturagro.co.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/thiskarimunjawa.id\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/thiskarimunjawa.id\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/thiskarimunjawa.id\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"8625604963","atomicFormsSendForm":"c804d898ff"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":15,"title":"Tentang%20Kami%20%E2%80%93%20PT%20thiskarimunjawa","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.31.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"https:\/\/naturagro.co.id\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/naturagro.co.id\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/naturagro.co.id\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"905b40d7b1"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":12,"title":"Cart%20%E2%80%93%20NaturaGro%20","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
-<script id="elementor-frontend-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.3"></script>
-<script id="smartmenus-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"></script>
-<script data-ccm-injected="1" async data-wp-strategy="async" id="trustindex-loader-js-js" src="https://cdn.trustindex.io/loader.js?ver=1"></script>
-<script id="nta-js-popup-js-extra">
-var njt_wa = {"gdprStatus":"","accounts":[{"accountId":340,"accountName":"Customer Service","avatar":"","number":"+6282323558485","title":"","predefinedText":"","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":{"sunday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"monday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"tuesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"wednesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"thursday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"friday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"saturday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}}},{"accountId":389,"accountName":"Customer Service 2","avatar":"","number":"+6281460072750","title":"Customer Service 2","predefinedText":"","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":[{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}]}],"options":{"display":{"displayCondition":"showAllPage","includePages":[],"excludePages":[],"includePosts":[],"showOnDesktop":"ON","showOnMobile":"ON","time_symbols":"h:m"},"styles":{"title":"Start a Conversation","responseText":"The team typically replies in a few minutes.","description":"Hi! Click one of our member below to chat on \u003Cstrong\u003EWhatsApp\u003C/strong\u003E","backgroundColor":"#2db742","textColor":"#fff","titleSize":"18","accountNameSize":"14","descriptionTextSize":"12","regularTextSize":"11","scrollHeight":"500","isShowScroll":"OFF","isShowResponseText":"OFF","btnLabel":"Need Help? \u003Cstrong\u003EChat with us\u003C/strong\u003E","btnLabelWidth":"156","btnPosition":"right","btnLeftDistance":"30","btnRightDistance":"30","btnBottomDistance":"30","isShowBtnLabel":"OFF","isShowGDPR":"OFF","gdprContent":"Please accept our \u003Ca href=\"https://ninjateam.org/privacy-policy/\"\u003Eprivacy policy\u003C/a\u003E first to start a conversation.","isShowPoweredBy":"ON"},"analytics":{"enabledGoogle":"OFF","enabledFacebook":"OFF","enabledGoogleGA4":"OFF"}}};
-//# sourceURL=nta-js-popup-js-extra
+<script id="elementor-frontend-js" src="https://naturagro.co.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.31.2"></script>
+<script id="elementor-frontend-js-after">
+var jkit_ajax_url = "https://naturagro.co.id/?jkit-ajax-request=jkit_elements", jkit_nonce = "a46ebea7a5";
+//# sourceURL=elementor-frontend-js-after
 </script>
-<script id="nta-js-popup-js" src="https://thiskarimunjawa.id/wp-content/plugins/wp-whatsapp/assets/js/whatsapp-popup.js?ver=3.8.2"></script>
-<script id="elementor-pro-webpack-runtime-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.2"></script>
-<script id="wp-hooks-js" src="https://thiskarimunjawa.id/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
-<script id="wp-i18n-js" src="https://thiskarimunjawa.id/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="smartmenus-js" src="https://naturagro.co.id/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"></script>
+<script id="sweetalert2-js" src="https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min.js?ver=11.6.16"></script>
+<script id="jkit-element-search-js" src="https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/js/elements/search.js?ver=2.6.14"></script>
+<script id="jkit-sticky-element-js" src="https://naturagro.co.id/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=2.6.14"></script>
+<script id="gt_widget_script_87172740-js-before">
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['87172740'] = {"default_language":"en","languages":["ar","zh-CN","nl","en","fr","de","hi","id","it","ja","ko","pt","ru","es","tr"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-87172740","alt_flags":{"pt":"brazil"},"horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+//# sourceURL=gt_widget_script_87172740-js-before
+</script><script src="https://naturagro.co.id/wp-content/plugins/gtranslate/js/flags.js?ver=7.0" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/cart/" data-gt-orig-domain="naturagro.co.id" data-gt-widget-id="87172740" defer></script><script id="elementor-pro-webpack-runtime-js" src="https://naturagro.co.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.28.3"></script>
+<script id="wp-hooks-js" src="https://naturagro.co.id/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://naturagro.co.id/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 </script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/thiskarimunjawa.id\/wp-admin\/admin-ajax.php","nonce":"04bb3482b9","urls":{"assets":"https:\/\/thiskarimunjawa.id\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/thiskarimunjawa.id\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/thiskarimunjawa.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/naturagro.co.id\/wp-admin\/admin-ajax.php","nonce":"414fffc423","urls":{"assets":"https:\/\/naturagro.co.id\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/naturagro.co.id\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/naturagro.co.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>
-<script id="elementor-pro-frontend-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.2"></script>
-<script id="pro-preloaded-elements-handlers-js" src="https://thiskarimunjawa.id/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.12.2"></script>
-			<script>
-			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-			</script>
-			<script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://thiskarimunjawa.id/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+<script id="elementor-pro-frontend-js" src="https://naturagro.co.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.28.3"></script>
+<script id="pro-elements-handlers-js" src="https://naturagro.co.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.28.3"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://naturagro.co.id/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
 </script>
 <script type="module">
 /*! This file is auto-generated */
 const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
-//# sourceURL=https://thiskarimunjawa.id/wp-includes/js/wp-emoji-loader.min.js
+//# sourceURL=https://naturagro.co.id/wp-includes/js/wp-emoji-loader.min.js
 </script>
-	</body>
+
+</body>
 </html>
